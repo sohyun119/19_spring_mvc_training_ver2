@@ -21,7 +21,7 @@ import com.application.trainingVer2.boardAdvance.service.BoardAdvanceService;
 @Controller
 @RequestMapping("/boardAdvance")
 public class BoardAdvanceController {
-
+ //
 	@Autowired								
 	private BoardAdvanceService boardAdvanceService;		
 	
